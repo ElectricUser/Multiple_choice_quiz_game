@@ -1,0 +1,6 @@
+Final results of the quiz
+
+Position Player   Points  
+1        Marcelo  5       
+2        Edna     2       
+3        Henrique 1       
