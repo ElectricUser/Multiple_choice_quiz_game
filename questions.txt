@@ -1,0 +1,41 @@
+Q:What was the year of the Great Crash of the American stock market, also known as "Black Tuesday"?
+a:1929 [CORRECT]
+b:1820
+c:1999
+d:2003
+points:4
+
+Q:How many times has an European League team of League of Legends won the Worlds tournament?
+a:0 
+b:2
+c:5
+d:1 [CORRECT]
+points:3
+
+Q:To whom does the character Eren Yeager from Attack on Titan anime say these world "I am the same as you"?
+a:Mikasa Ackerman
+b:Grisha Yeager
+c:Levi Ackerman
+d:Reiner Braun [CORRECT]
+points:3
+
+Q:Which of these animes is mainly about Vikings and Northman?
+a:Fairy Tail
+b:One Piece
+c:Vinland Saga [CORRECT]
+d:Dragon Ball Z
+points:1
+
+Q:From which movie is the famous quote "You know what Capitalism is? Getting F**ed!"
+a:Wolf of Wall Street (2014)
+b:Scarface (1984) [CORRECT]
+c:The Godfather part I (1972)
+d:American Psycho (2000)
+points:1
+
+Q:From which movie is this phrase "I Used To Think That My Life Was A Tragedy. But Now I Realize, It's A F***Ing Comedy."
+a:It (2017)
+b:Deadpool (2016)
+c:Son of the Mask (2005)
+d:The Joker (2019) [CORRECT]
+points:2
